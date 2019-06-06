@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background: url('../images/website_background_image.png');
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+    background: white;
+}
