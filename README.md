@@ -5,4 +5,4 @@ This is a website demonstrating the effectiveness of using Bootstrap to create a
 
 The web address for this site is https://edepaolo.github.io/Bootstrap-Portfolio/
 
-The Github link to this site is 
+The Github link to this site is https://github.com/edepaolo/Bootstrap-Portfolio.git
